@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.5",
-        "symfony/symfony": "~2.6|~3.0",
+        "symfony/symfony": "~2.6|~3.0|~4.0",
         "cocur/slugify": "0.2.2"
     },
     "require-dev": {
